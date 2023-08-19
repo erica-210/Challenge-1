@@ -13,7 +13,7 @@ N/A
 SEO Stratergy webpage: http://127.0.0.1:7049/index.html#search-engine-optimization
 GitHub Repository: https://github.com/erica-210/Challenge-1
 
-![Alt text](Screenshot.png)
+![Webpage screenshot](./assets/images/Screenshot.png)
 
 
 ## Credits
