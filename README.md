@@ -13,6 +13,9 @@ N/A
 SEO Stratergy webpage: http://127.0.0.1:7049/index.html#search-engine-optimization
 GitHub Repository: https://github.com/erica-210/Challenge-1
 
+![Alt text](Screenshot.png)
+
+
 ## Credits
 
 Week 1 Activities Content
@@ -22,6 +25,15 @@ Pages used as refrences:
 HTML structural elements: https://webplatform.github.io/docs/guides/html_structural_elements/
 HTML sementic elements: https://www.w3schools.com/TAGS/default.asp
 README: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+Contibutors for base HTML and CSS layout (GitHub accounts):
+
+Xandromus
+Georgeyoo
+
+Help with page loading and assets folder issues:
+
+Will Utterback-TA
 
 ## License
 
