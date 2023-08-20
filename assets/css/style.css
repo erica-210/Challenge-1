@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Company name/logo and nav bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -190,6 +191,7 @@ p {
     font-size: 36px;
 }
 
+/* Company name and copyright */
 .footer {
     padding: 30px;
     clear: both;
