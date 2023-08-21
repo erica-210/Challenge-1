@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Company name/logo and nav bar */
+/* Setting font color and size for company name/logo and nav bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,7 +51,7 @@ p {
     font-size: 16px;
 }
 
-/* Main article tips */
+/* Image and postioning of main article tips */
 .hero {
     height: 800px;
     width: 100%;
@@ -77,7 +77,7 @@ p {
     margin-left: 20px;
 }
 
-/* Side bar tricks */
+/* Positioning of side bar tricks */
 .benefits {
     margin-right: 20px;
     padding: 20px;
